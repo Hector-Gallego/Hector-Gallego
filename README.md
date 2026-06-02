@@ -1,14 +1,12 @@
 # Hey, I'm Héctor 👋
 
-Founder of **[Red Orion Studio](https://redorionstudio.com)** — an independent 
+Founder of **[Red Orion Studio](https://wwww.redorionstudio.com)** — an independent 
 software studio based in Colombia.
 
 I build products that ship. Currently working on:
 
-- 📋 **[Magipaste](https://redorionstudio.com)** — Screenshot to clipboard, 
+- 📋 **[Magipaste](https://wwww.redorionstudio.com)** — Screenshot to clipboard, 
   instantly. Android + Windows, no accounts, no cloud.
-- 🎮 **Unnamed factory-builder game** — 7 eras of history, 
-  built in Godot 4.
 
 ## Stack
 Android · Flutter · Kotlin · Java · Spring Boot · JavaScript
