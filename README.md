@@ -1,6 +1,6 @@
 # Hey, I'm Héctor 👋
 
-Founder of **[Red Orion Studio](https://wwww.redorionstudio.com)** — an independent 
+Software Engineer - Founder of **[Red Orion Studio](https://wwww.redorionstudio.com)** — an independent 
 software studio based in Colombia.
 
 I build products that ship. Currently working on:
